@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff556968e0f54532bd6414c1a17c681, type: 3}
+  m_Name: WashingRecipesList
+  m_EditorClassIdentifier: 
+  list:
+  - input: {fileID: 11400000, guid: b739d411b943548408359e9480d52ede, type: 2}
+    output: {fileID: 11400000, guid: b902dd8286f474a5fa57b5f4fbf94e95, type: 2}
+    washingCountMax: 5
+  - input: {fileID: 11400000, guid: 8997e24cedf1345739c154266907acef, type: 2}
+    output: {fileID: 11400000, guid: b902dd8286f474a5fa57b5f4fbf94e95, type: 2}
+    washingCountMax: 3
+  - input: {fileID: 11400000, guid: 77073770117ba469fafb45594099d80e, type: 2}
+    output: {fileID: 11400000, guid: b902dd8286f474a5fa57b5f4fbf94e95, type: 2}
+    washingCountMax: 4

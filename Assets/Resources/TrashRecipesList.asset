@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de39604adc02444b289cde17121c591d, type: 3}
+  m_Name: TrashRecipesList
+  m_EditorClassIdentifier: 
+  list:
+  - input: {fileID: 11400000, guid: fad48dee016d04b628f5cd3e499c29a9, type: 2}
+    output: {fileID: 11400000, guid: 8997e24cedf1345739c154266907acef, type: 2}
+  - input: {fileID: 11400000, guid: ca4f0babeb24d47fdbe1a50ee33b19c6, type: 2}
+    output: {fileID: 11400000, guid: 77073770117ba469fafb45594099d80e, type: 2}
+  - input: {fileID: 11400000, guid: b36db8ede52fa40af9c41b881ea669fa, type: 2}
+    output: {fileID: 11400000, guid: b739d411b943548408359e9480d52ede, type: 2}

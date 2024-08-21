@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cc1a6a29837029499522f9d6d8b528c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194834
+  packageName: Colorful City Pack - URP
+  packageVersion: 1.0
+  assetPath: Assets/CityPack_URP/Art/Shaders/Shader Graphs_CityPack.mat
+  uploadId: 433527

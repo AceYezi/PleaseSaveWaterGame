@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c096db5bfc5209e43ae75c534e1a20f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194834
+  packageName: Colorful City Pack - URP
+  packageVersion: 1.0
+  assetPath: Assets/CityPack_URP/Art/Materials/Skybox_CityPack.mat
+  uploadId: 433527

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d318328f7c5b06145be298027a486001
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194834
+  packageName: Colorful City Pack - URP
+  packageVersion: 1.0
+  assetPath: Assets/CityPack_URP/Art/Materials/CityPack_EmissiveSign.mat
+  uploadId: 433527
